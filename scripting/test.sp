@@ -11,7 +11,7 @@ public Plugin myinfo =
 	author = "",
 	description = "",
 	version = "1.0.0",
-	url = "https://github.com//test"
+	url = "https://github.com/toazters/cs-test-server"
 };
 
 
