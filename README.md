@@ -1,7 +1,4 @@
-# test
-
-
-![Downloads](https://img.shields.io/github/downloads//test/total?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit//test?style=flat-square) ![Open issues](https://img.shields.io/github/issues//test?style=flat-square) ![Closed issues](https://img.shields.io/github/issues-closed//test?style=flat-square) ![Size](https://img.shields.io/github/repo-size//test?style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status//test/Compile%20with%20SourceMod?style=flat-square)
+# AYO
 
 ## Description ##
 
