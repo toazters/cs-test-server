@@ -14,12 +14,20 @@ public Plugin myinfo =
 	url = "https://github.com/toazters/cs-test-server"
 };
 
-
+// Runs on server startup
 public void OnPluginStart()
 {
     HookEvent("player_death", Event_PlayerDeath);
 }
- 
+
+/**
+ * On the PlayerDeath Event, kicks victim if the kill was a headshot.
+ * 
+ * @param event             Initializes event
+ * @param name              Name of event
+ * @param dontBroadcast     Broadcast the event
+ * @return                  void
+ */
 public void Event_PlayerDeath(Event event, const char[] name, bool dontBroadcast)
 {
     char weapon[64];
@@ -35,6 +43,5 @@ public void Event_PlayerDeath(Event event, const char[] name, bool dontBroadcast
 	if(headshot == true)
 	{
 		KickClient(victim, "You got FUCKED like a BITCH frrrrrr :100: lol");
-		PrintToConsole(victimId + " got FUCKED");
 	}
 }
