@@ -18,3 +18,4 @@
 
 
 ## Usage ##
+- No available commands for console. As of right now, all the plugin does is execute code on the event of a player's death.
