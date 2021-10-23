@@ -9,7 +9,7 @@ public Plugin myinfo =
 {
 	name = "test",
 	author = "willwashere_",
-	description = "",
+	description = "Simple CS:GO plugin that kicks client from the server if they are killed by a headshot.",
 	version = "1.0.0",
 	url = "https://github.com/toazters/cs-test-server"
 };
