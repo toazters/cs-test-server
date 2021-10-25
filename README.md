@@ -1,4 +1,4 @@
-# AYO
+# CS:GO but it's way better
 
 ## Description ##
 
